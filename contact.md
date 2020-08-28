@@ -12,11 +12,11 @@ page_sections:
   - link: "/#features"
     link_text: Features
   - link_text: Pricing
-    link: "/#pricing"
+    link: "/"
   - link: "/contact"
     link_text: Contact
   cta:
-    url: ''
+    url: https://forms.gle/TfKgn9qV4CMUeQwT6
     button_text: Early Access
 - template: 2-column-text
   block: two-column-1
