@@ -22,6 +22,12 @@ page_sections:
   block: one-column-1
   headline: Hello
   content: Text
+- template: 4-column-footer
+  block: footer-2
+  image: ''
+  col_2: ''
+  col_3: ''
+  col_4: ''
 menu:
   main:
     weight: 2
