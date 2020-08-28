@@ -21,15 +21,15 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   background_color: "#FEDE04"
-  background_image: ''
+  background_image: "/uploads/2018/06/21/hero-2-bg.png"
   image:
-    image: ''
+    image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: ''
-  headline: ''
-  content: ''
+  headline: NeuralNotes
+  content: Remember Everything You Read
   cta:
-    url: ''
-    button_text: ''
+    url: https://forms.gle/TfKgn9qV4CMUeQwT6
+    button_text: Early Access
 - template: content-feature
   block: feature-1
   media_alignment: Left
