@@ -41,18 +41,13 @@ fields:
     required: false
     color_format: Hex
   default: "#FEDE04"
-- name: cta
-  type: field_group
-  config: {}
+- type: field_group
+  name: cta
+  label: Call-to-action
   fields:
   - name: url
     type: text
-    config:
-      required: false
     label: URL
   - name: button_text
     type: text
-    config:
-      required: false
     label: Button Text
-  label: Call-to-action
