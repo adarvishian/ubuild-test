@@ -21,16 +21,15 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   background_color: "#FEDE04"
-  background_image: "/uploads/2018/06/21/hero-2-bg.png"
+  background_image: ''
   image:
-    image: "/uploads/2018/06/21/product-shot-1.png"
+    image: ''
     alt_text: ''
-  headline: NeuralNotes
-  content: Changing the way you learn and remember
-  email_recipient: ''
+  headline: ''
+  content: ''
   cta:
-    url: https://forms.gle/TfKgn9qV4CMUeQwT6
-    button_text: Early Access
+    url: ''
+    button_text: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
