@@ -17,7 +17,7 @@ page_sections:
     link_text: Contact
   cta:
     url: ''
-    button_text: ''
+    button_text: Early Access
 - template: 2-column-text
   block: two-column-1
   col_1:
