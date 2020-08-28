@@ -20,7 +20,7 @@ page_sections:
     button_text: Early Access
 - template: hero-banner-w-image
   block: hero-2
-  background_color: "#FEDE04"
+  background_color: "#2D3142"
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
@@ -38,7 +38,7 @@ page_sections:
   content: Quickly assemble and create custom sites with 16 design blocks for seven
     different sections.
   media:
-    image: "/uploads/2018/06/21/blocks-split.png"
+    image: "/uploads/2020/08/28/testimonials-opt.webp"
     alt_text: uBuild Blocks Mock-Up
 - template: content-feature
   block: feature-1
@@ -48,7 +48,7 @@ page_sections:
   content: Each block comes with custom Front Matter that can easily be edited in
     Forestry's UI.
   media:
-    image: "/uploads/2018/06/21/edit.gif"
+    image: "/uploads/2020/08/28/hero-opt.webp"
     alt_text: Customize Blocks
 - template: 1-column-text
   block: one-column-1
