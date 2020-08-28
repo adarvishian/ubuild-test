@@ -9,6 +9,8 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Home
+  - link_text: Pricing
+    link: "/#pricing"
   cta:
     url: ''
     button_text: ''
