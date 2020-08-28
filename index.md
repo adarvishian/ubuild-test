@@ -18,10 +18,6 @@ page_sections:
   cta:
     url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
     button_text: Early Access
-- template: signup-bar
-  block: cta-bar
-  content: Sign up for early access
-  email_recipient: ''
 - template: hero-banner-w-image
   block: hero-2
   background_color: "#FEDE04"
@@ -52,6 +48,10 @@ page_sections:
   media:
     image: "/uploads/2018/06/21/edit.gif"
     alt_text: Customize Blocks
+- template: signup-bar
+  block: cta-bar
+  content: Sign up for early access
+  email_recipient: ''
 - template: 1-column-text
   block: one-column-1
   headline: 16 Fully Responsive Design Blocks
