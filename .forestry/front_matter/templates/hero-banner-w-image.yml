@@ -34,8 +34,3 @@ fields:
     wysiwyg: true
     schema:
       format: html
-- name: sign_up_for_early_access
-  type: include
-  config: {}
-  template: signup-bar
-  label: Sign up for early access
