@@ -23,10 +23,10 @@ page_sections:
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
-    alt_text: product
-  headline: NeuralNotes
-  content: SignUp here
-  email_recipient: zxzxxsx
+    alt_text: ''
+  headline: Neural Notes
+  content: 'Changing the way you learn and remember '
+  email_recipient: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
