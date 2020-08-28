@@ -1,8 +1,8 @@
 <section class="block block-hero-2"
 {% if section.background_image %}
-style="background-image: url('{{ section.background_image | relative_url }}')"
+style="background-image: url('{{ section.background_image | relative_url }}'); background-color: greenyellow"
 {% endif %}>
-  <div style="background-color: greenyellow" class="container">
+  <div class="container">
     <div class="columns">
       <div class="column text">
         <h1><span class="light">{{ section.headline }}</span></h1>
