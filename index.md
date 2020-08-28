@@ -24,8 +24,8 @@ page_sections:
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: product
-  headline: ''
-  content: ''
+  headline: NeuralNotes
+  content: SignUp here
   email_recipient: ''
 - template: content-feature
   block: feature-1
