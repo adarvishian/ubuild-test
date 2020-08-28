@@ -16,7 +16,7 @@ page_sections:
   - link: "/contact"
     link_text: Contact
   cta:
-    url: https://forms.gle/TfKgn9qV4CMUeQwT6
+    url: https://forms.gle/mjUjqcSPPhQNsGBc8
     button_text: Early Access
 - template: 2-column-text
   block: two-column-1

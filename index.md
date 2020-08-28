@@ -16,7 +16,7 @@ page_sections:
   - link: "/contact"
     link_text: Contact
   cta:
-    url: https://forms.gle/gbeAD57vz64Wf6ox9
+    url: https://forms.gle/mjUjqcSPPhQNsGBc8
     button_text: Early Access
 - template: hero-banner-w-image
   block: hero-2
@@ -28,7 +28,7 @@ page_sections:
   headline: NeuralNotes
   content: Remember Everything You Read
   cta:
-    url: https://forms.gle/TfKgn9qV4CMUeQwT6
+    url: https://forms.gle/mjUjqcSPPhQNsGBc8
     button_text: Early Access
 - template: content-feature
   block: feature-1
