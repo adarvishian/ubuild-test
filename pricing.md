@@ -7,6 +7,8 @@ page_sections:
   block: header-2
   logo: "/uploads/2020/08/28/website-header.svg"
   navigation:
+  - link: "/pricing"
+    link_text: Pricing
   - link: "/"
     link_text: Home
   - link_text: Team
