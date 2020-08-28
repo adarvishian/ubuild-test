@@ -23,7 +23,7 @@ page_sections:
   background_color: "#C8553D"
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
   image:
-    image: "/uploads/2020/08/28/hero-opt.webp"
+    image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: ''
   headline: NeuralNotes
   content: Remember Everything You Read
