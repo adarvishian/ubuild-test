@@ -28,6 +28,9 @@ page_sections:
   headline: NeuralNotes
   content: Changing the way you learn and remember
   email_recipient: ''
+  cta:
+    url: https://forms.gle/TfKgn9qV4CMUeQwT6
+    button_text: Early Access
 - template: content-feature
   block: feature-1
   media_alignment: Left
