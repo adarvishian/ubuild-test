@@ -27,6 +27,9 @@ page_sections:
     alt_text: ''
   headline: NeuralNotes
   content: Remember Everything You Read
+  cta:
+    url: https://forms.gle/mjUjqcSPPhQNsGBc8
+    button_text: Early Access
 - template: content-feature
   block: feature-1
   media_alignment: Left
