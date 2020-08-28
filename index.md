@@ -71,6 +71,14 @@ page_sections:
   col_2: ''
   col_3: ''
   col_4: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: Pricing
+  content: Your first month is on us, then $8/month after.
+  media:
+    image: ''
+    alt_text: ''
 
 ---
 foo bar
