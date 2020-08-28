@@ -13,8 +13,8 @@ page_sections:
     link_text: Features
   - link: "/pricing"
     link_text: Pricing
-  - link_text: Team
-    link: "/team"
+  - link_text: Contact
+    link: "/contact"
   cta:
     url: ''
     button_text: Early Access
