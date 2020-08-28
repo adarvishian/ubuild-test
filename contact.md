@@ -29,5 +29,8 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: 2020, NeuralNotes, LLC
+menu:
+  main:
+    weight: 2
 
 ---
