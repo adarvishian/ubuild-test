@@ -9,10 +9,10 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Home
-  - link: "/#features"
+  - link: "#features"
     link_text: Features
-  - link_text: Pricing
-    link: "/"
+  - link: "#pricing"
+    link_text: Pricing
   - link: "/contact"
     link_text: Contact
   cta:
