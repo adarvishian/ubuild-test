@@ -9,7 +9,7 @@ style="background-image: url('{{ section.background_image | relative_url }}'); b
         <p>{{ section.content }}</p>
         {% if section.cta and section.cta.enabled == true %}
         <a class="button primary inverted" href="{{ section.cta.url }}">{{ section.cta.button_text }}</a>
-        <a class="button primary block-hero-2--cta" href="{{ section.cta.url }}">{{ section.cta.button_text }}</a>
+        <a class="button primary cta" href="{{ section.cta.url }}">{{ section.cta.button_text }}</a>
         {% endif %}
       </div>
       <div class="column media">
