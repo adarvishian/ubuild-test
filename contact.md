@@ -13,7 +13,7 @@ page_sections:
     link_text: Features
   - link_text: Pricing
     link: "/#pricing"
-  - link: "/team"
+  - link: "/contact"
     link_text: Contact
   cta:
     url: ''
@@ -32,5 +32,6 @@ page_sections:
 menu:
   main:
     weight: 2
+    title: Contact
 
 ---
