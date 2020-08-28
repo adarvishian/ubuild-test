@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Team
+title: Contact
 date: 2020-08-28 05:00:00 +0000
 page_sections:
 - template: navigation-header
