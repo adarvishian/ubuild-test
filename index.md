@@ -20,7 +20,7 @@ page_sections:
     button_text: Early Access
 - template: hero-banner-w-image
   block: hero-2
-  background_color: "#FEDE04"
+  background_color: "#7ED321"
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
