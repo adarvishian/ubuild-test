@@ -26,7 +26,7 @@ page_sections:
     alt_text: product
   headline: NeuralNotes
   content: SignUp here
-  email_recipient: ''
+  email_recipient: zxzxxsx
 - template: content-feature
   block: feature-1
   media_alignment: Left
