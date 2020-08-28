@@ -1,4 +1,4 @@
-<section class="block block-hero-2"
+<section class="block block-hero-3"
 {% if section.background_image %}
 style="background-image: url('{{ section.background_image | relative_url }}'); background-color: {{ section.background_color }}"
 {% endif %}>
@@ -7,9 +7,12 @@ style="background-image: url('{{ section.background_image | relative_url }}'); b
       <div class="column text">
         <h1><span class="light">{{ section.headline }}</span></h1>
         <p>{{ section.content }}</p>
-        {% if section.cta and section.cta.enabled == true %}
-        <a class="button primary inverted" href="{{ section.cta.url }}">{{ section.cta.button_text }}</a>
-        {% endif %}
+        <div class="cta">
+          <form action="https://formspree.io/{{ section.email_recipient }}" method="POST">
+            <input type="email" placeholder="your@email.com" class="inverted" name="_replyto">
+            <button type="submit" class="button primary inverted">Sign up</button>
+          </form>
+        </div>
       </div>
       <div class="column media">
         <img src="{{ section.image.image | relative_url }}" alt="{{ section.image.alt_text }}">
