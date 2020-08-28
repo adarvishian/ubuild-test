@@ -58,19 +58,6 @@ page_sections:
   block: media-1
   image: "/uploads/2018/06/21/theme.png"
   caption: All Available Blocks
-- template: detail-content
-  block: text-1
-  headline: Pricing
-  content: "<p>Try it today for 30 days then $8/month.</p>"
-- template: simple-footer
-  block: footer-1
-  content: Hello world! ❤︎
-- template: 4-column-footer
-  block: footer-2
-  image: ''
-  col_2: ''
-  col_3: ''
-  col_4: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -79,6 +66,9 @@ page_sections:
   media:
     image: ''
     alt_text: ''
+- template: simple-footer
+  block: footer-1
+  content: 2020, NeuralNotes, LLC
 
 ---
 foo bar
