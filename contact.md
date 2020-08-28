@@ -13,6 +13,8 @@ page_sections:
     link_text: Features
   - link_text: Pricing
     link: "/#pricing"
+  - link: "/contact"
+    link_text: Contact
   cta:
     url: ''
     button_text: ''
