@@ -34,3 +34,9 @@ fields:
     wysiwyg: true
     schema:
       format: html
+- name: email_recipient
+  type: text
+  config:
+    required: false
+  label: Email Recipient
+  description: Sign up here for early access
