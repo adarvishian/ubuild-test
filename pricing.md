@@ -15,7 +15,7 @@ page_sections:
     link: "/team"
   cta:
     url: ''
-    button_text: ''
+    button_text: Early Access
 - template: 1-column-text
   block: one-column-1
   headline: Hello
