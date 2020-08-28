@@ -20,12 +20,13 @@ page_sections:
     button_text: Download
 - template: hero-banner-w-image
   block: hero-2
+  background_color: "#FEDE04"
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: ''
-  headline: Neural Notes
-  content: 'Changing the way you learn and remember '
+  headline: NeuralNotes
+  content: Changing the way you learn and remember
   email_recipient: ''
 - template: content-feature
   block: feature-1
