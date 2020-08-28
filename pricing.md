@@ -11,6 +11,8 @@ page_sections:
   block: one-column-1
   headline: Hello
   content: Text
-published: false
+menu:
+  main:
+    weight: 2
 
 ---
