@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Contact
+title: Team
 date: 2020-08-28 05:00:00 +0000
 page_sections:
 - template: navigation-header-w-button
@@ -14,7 +14,7 @@ page_sections:
   - link_text: Pricing
     link: "/#pricing"
   - link: "/contact"
-    link_text: Contact
+    link_text: Team
   cta:
     url: ''
     button_text: Early Access

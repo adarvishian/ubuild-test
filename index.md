@@ -13,7 +13,7 @@ page_sections:
     link_text: Features
   - link: "#pricing"
     link_text: Pricing
-  - link: "/contact"
+  - link: "/team"
     link_text: Contact
   cta:
     url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
