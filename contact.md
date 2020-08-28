@@ -28,7 +28,7 @@ page_sections:
     content: Founder
 - template: simple-footer
   block: footer-1
-  content: ''
+  content: 2020, NeuralNotes, LLC
 published: false
 
 ---
