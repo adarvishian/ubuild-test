@@ -38,7 +38,7 @@ page_sections:
   content: Quickly assemble and create custom sites with 16 design blocks for seven
     different sections.
   media:
-    image: "/uploads/2018/06/21/blocks-split.png"
+    image: "/uploads/2020/08/28/testimonials-opt.webp"
     alt_text: uBuild Blocks Mock-Up
 - template: content-feature
   block: feature-1
