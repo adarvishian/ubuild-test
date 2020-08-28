@@ -11,6 +11,8 @@ page_sections:
     link_text: Home
   - link: "/#features"
     link_text: Features
+  - link: "/pricing"
+    link_text: Pricing
   cta:
     url: ''
     button_text: ''
