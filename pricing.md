@@ -3,12 +3,15 @@ layout: blocks
 title: Pricing
 date: 2020-08-28 05:00:00 +0000
 page_sections:
-- template: navigation-header
-  block: header-1
+- template: navigation-header-w-button
+  block: header-2
   logo: "/uploads/2020/08/28/website-header.svg"
   navigation:
-  - link_text: Home
-    link: "/"
+  - link: "/"
+    link_text: Home
+  cta:
+    url: ''
+    button_text: ''
 - template: 1-column-text
   block: one-column-1
   headline: Hello
