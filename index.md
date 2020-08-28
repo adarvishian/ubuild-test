@@ -51,7 +51,7 @@ page_sections:
 - template: signup-bar
   block: cta-bar
   content: Sign up for early access
-  email_recipient: ''
+  email_recipient: alex.darvishian@gmail.com
 - template: 1-column-text
   block: one-column-1
   headline: 16 Fully Responsive Design Blocks
