@@ -40,3 +40,10 @@ fields:
     required: false
   label: Email Recipient
   description: Sign up here for early access
+- name: background_color
+  type: color
+  label: background color
+  config:
+    required: false
+    color_format: Hex
+  default: "#FEDE04"
