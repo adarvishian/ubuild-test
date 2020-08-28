@@ -20,10 +20,10 @@ page_sections:
     button_text: Early Access
 - template: hero-banner-w-image
   block: hero-2
-  background_color: "#7ED321"
+  background_color: "#C8553D"
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
   image:
-    image: "/uploads/2018/06/21/product-shot-1.png"
+    image: "/uploads/2020/08/28/hero-opt.webp"
     alt_text: ''
   headline: NeuralNotes
   content: Remember Everything You Read
