@@ -16,7 +16,7 @@ page_sections:
   - link: "/team"
     link_text: Contact
   cta:
-    url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
+    url: https://forms.gle/gbeAD57vz64Wf6ox9
     button_text: Early Access
 - template: hero-banner-w-image
   block: hero-2
@@ -48,10 +48,6 @@ page_sections:
   media:
     image: "/uploads/2018/06/21/edit.gif"
     alt_text: Customize Blocks
-- template: signup-bar
-  block: cta-bar
-  content: Sign up for early access
-  email_recipient: alex.darvishian@gmail.com
 - template: 1-column-text
   block: one-column-1
   headline: 16 Fully Responsive Design Blocks
