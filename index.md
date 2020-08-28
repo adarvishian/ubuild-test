@@ -11,7 +11,7 @@ page_sections:
     link_text: Home
   - link: "#features"
     link_text: Features
-  - link: "/pricing"
+  - link: "#pricing"
     link_text: Pricing
   - link: "/contact"
     link_text: Contact
