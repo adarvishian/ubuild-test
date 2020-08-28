@@ -34,7 +34,7 @@ fields:
     wysiwyg: true
     schema:
       format: html
-- name: background-color
+- name: background_color
   type: color
   label: background color
   config:
