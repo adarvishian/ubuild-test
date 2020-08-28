@@ -24,8 +24,8 @@ page_sections:
     headline: Tom
     content: Founder
   col_2:
-    headline: ''
-    content: ''
+    headline: Alex
+    content: Founder
 - template: simple-footer
   block: footer-1
   content: ''
