@@ -24,10 +24,10 @@ page_sections:
   content: Text
 - template: 4-column-footer
   block: footer-2
-  image: ''
-  col_2: ''
-  col_3: ''
-  col_4: ''
+  image: "/uploads/2020/08/28/website-header.svg"
+  col_2: Footer 1
+  col_3: Footer 2
+  col_4: Footer 3
 menu:
   main:
     weight: 2
