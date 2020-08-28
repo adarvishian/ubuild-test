@@ -13,7 +13,7 @@ page_sections:
     link_text: Features
   - link: "#pricing"
     link_text: Pricing
-  - link: "/team"
+  - link: "/contact"
     link_text: Contact
   cta:
     url: https://forms.gle/gbeAD57vz64Wf6ox9
