@@ -95,7 +95,7 @@ p {
 }
 
 .button.primary {
-    background-color: #ffcb3c;
+    background-color: seagreen;
     color: #fff
 }
 
@@ -106,7 +106,7 @@ p {
 
 .button.secondary {
     background-color: transparent;
-    border: 1.5px solid #ffffff;
+    border: 1.5px solid #ffcb3c
 }
 
 .button.small {
