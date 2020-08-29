@@ -1,6 +1,6 @@
 ---
 label: hero-banner-w-image-2
-hide_body: false
+hide_body: true
 fields:
 - type: text
   hidden: true
@@ -67,4 +67,3 @@ fields:
     name: email_recipient
     label: Email Recipient
     description: Form submissions will be sent to this email address.
-
