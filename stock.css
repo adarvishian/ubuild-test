@@ -4,6 +4,22 @@
     padding: 0
 }
 
+.colorpalette1 {
+    color: #070016;
+    color: #364156;
+    color: #FDAE0D;
+    color: #00E1CE;
+    color: #E94362
+}
+
+.colorpalette2 {
+    color: #FFFACC;
+    color: #FFEFBD;
+    color: #AFC2D5;
+    color: #C8553D;
+    color: #2D3142
+}
+
 h1 {
     font-size: 48px;
     font-size: 3rem;
@@ -95,7 +111,7 @@ p {
 }
 
 .button.primary {
-    background-color: #AFC2D5;
+    background-color: #FDAE0D;
     color: #fff
 }
 
@@ -106,7 +122,7 @@ p {
 
 .button.secondary {
     background-color: transparent;
-    border: 1.5px solid #ffcb3c
+    border: 1.5px solid #FDAE0D
 }
 
 .button.small {
@@ -184,7 +200,7 @@ input.inverted::placeholder {
 }
 
 .block-header-1 .nav-item.active a {
-    color: #ffcb3c
+    color: #FDAE0D
 }
 
 .block-header-1 .nav-item a {
@@ -197,7 +213,7 @@ input.inverted::placeholder {
 }
 
 .block-header-1 .nav-item.active a:hover {
-    color: #ffcb3c
+    color: #FDAE0D
 }
 
 .block-header-1 .nav-item:last-of-type {
@@ -237,7 +253,7 @@ input.inverted::placeholder {
 }
 
 .block-header-2 .nav-item.active a {
-    color: #ffcb3c
+    color: #FDAE0D
 }
 
 .block-header-2 .nav-item a {
